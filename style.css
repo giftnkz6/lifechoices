@@ -10,3 +10,30 @@ h2{
 li{
     outline-color: aqua;
   }
+
+#p1{
+    background-color: green;
+}
+.t1{
+    border-color: yellow;
+    border-width: 5px;
+    border: solid;
+
+}
+
+.pic{
+    border-radius: 50%;
+}
+
+li{
+    display: inline;
+}
+
+nav{
+    padding: 5px;
+    margin: 20px;
+    border-style: solid;
+    margin-right: 100px;
+    background-color: mediumslateblue;
+    border-color: rgb(41, 40, 50);
+}
